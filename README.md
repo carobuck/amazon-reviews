@@ -21,4 +21,4 @@ A collection of scripts used for pulling, cleaning, analyzing and visualizing Am
   * Run sentiment + emotion analysis on lemmatised text (uses dictionary-based approach in [sentimentr](https://cran.r-project.org/web/packages/sentimentr/readme/README.html) package)
 
 3. Use 3_summ_viz_reviews.R to summarise sentiment and emotion results
- * Can group + visualize results by metadata categories associated with ASINs (if joined in previous script)
+  * Can group + visualize results by metadata categories associated with ASINs (if joined in previous script)
